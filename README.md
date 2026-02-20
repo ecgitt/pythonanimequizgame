@@ -1,7 +1,7 @@
 # Python Anime Quiz Game
 
 ## Description
-An anime quiz game utilizing Ren'Py. See if you can get all ten correct. This quiz game uses simple click-based controls and can be downloaded for Windows, Linux, or MacOS.
+An anime quiz game utilizing Python/Ren'Py. See if you can get all ten correct. This quiz game uses simple click-based controls and can be downloaded for Windows, Linux, or MacOS.
 
 ## Gameplay Screenshot
 ![Gameplay Screenshot](https://github.com/ecgitt/pythonanimequizgame/blob/main/goku.png?raw=true)
